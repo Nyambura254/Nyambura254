@@ -38,7 +38,7 @@ Hi, I'm Bonnie 😉, a Web Software Developer 👨🏻‍💻 from Kenya ![flag]
 
 [<img align="left" alt="Nyambura254 twitter" width="22px" src="https://img.icons8.com/cute-clipart/2x/twitter.png" />][twitter]
 [<img align="left" alt="Nyambura254 gmail" width="22px" src="https://img.icons8.com/color/2x/gmail-login.png" />][gmail]
-[<img align="left" alt="https://www.linkedin.com/in/boniface-mwangi-398154188/" width="22px" src="https://img.icons8.com/cute-clipart/2x/linkedin.png" />]</span>
+[<img align="left" alt="Nyambura254 linkedin" width="22px" src="https://img.icons8.com/cute-clipart/2x/linkedin.png" />][linkedin]</span>
 <br/>
 
 > Languages & Frameworks:
