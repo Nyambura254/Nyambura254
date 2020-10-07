@@ -27,9 +27,8 @@ Hi, I'm Bonnie 😉, a Web Software Developer 👨🏻‍💻 from Kenya ![flag]
 * 😄 Pronouns: ...He/Him
 * ⚡ Fun fact: ...love people
 ---
-My Yearly Contribution Stats
 <img align="left" alt="My GitHub Stats" width="300px" src="https://github-readme-stats.codestackr.vercel.app/api?username=Nyambura254&show_icons=true&theme=tokyonight" />
- <img align="" alt="Bonnie's Top used languages on Github" height ="300" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyambura254&theme=synthwave"/></details>
+ <img align="" alt="Bonnie's Top used languages on Github" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyambura254&theme=synthwave"/></details>
  <br/>
  
 
