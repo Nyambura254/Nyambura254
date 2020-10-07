@@ -28,8 +28,16 @@ Hi, I'm Bonnie 😉, a Web Software Developer 👨🏻‍💻 from Kenya ![flag]
 * ⚡ Fun fact: ...love people
 ---
 <details><summary>:zap: My Yearly Contribution Stats</summary>
-<img align="left" alt="My GitHub Stats" width="300px" src="https://github-readme-stats.codestackr.vercel.app/api?username=Nyambura254&show_icons=true&show_border=true" />
+<img align="left" alt="My GitHub Stats" width="300px" src="https://github-readme-stats.codestackr.vercel.app/api?username=Nyambura254&show_icons=true&hide_border=true" />
  <img align="" alt="Bonnie's Top used languages on Github" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyambura254&layout=compact"/></details>
  <br/>
+ 
+> How to reach me:
 
+
+
+[<img align="left" alt="Nyambura254 twitter" width="22px" src="https://img.icons8.com/cute-clipart/2x/twitter.png" />][twitter]
+[<img align="left" alt="Nyambura254 gmail" width="22px" src="https://img.icons8.com/color/2x/gmail-login.png" />][gmail]
+[<img align="left" alt="Boniface-Mwangi linkedin" width="22px" src="https://img.icons8.com/cute-clipart/2x/linkedin.png" />][linkedin]</span>
+<br/>
 
