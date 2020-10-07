@@ -1,5 +1,6 @@
 
-## Boniface Mwangi 
+## Boniface Mwangi ![thumbup](https://user-images.githubusercontent.com/45118623/95322552-5befcb80-08a5-11eb-8875-2fae791e8b01.png)
+ 
 
 ![bonnie](https://user-images.githubusercontent.com/45118623/95321901-5f368780-08a4-11eb-82ab-90fdad43ff25.png)
 
