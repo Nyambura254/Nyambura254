@@ -30,7 +30,17 @@ Hi, I'm Bonnie 😉, a Web Software Developer 👨🏻‍💻 from Kenya ![flag]
  <img align="" alt="Bonnie's Top used languages on Github" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyambura254&theme=synthwave"/></details>
  <br/>
  
- > Languages & Frameworks:
+ 
+> How to reach me:
+
+
+
+[<img align="left" alt="Nyambura254 twitter" width="22px" src="https://img.icons8.com/cute-clipart/2x/twitter.png" />][twitter]
+[<img align="left" alt="Nyambura254 gmail" width="22px" src="https://img.icons8.com/color/2x/gmail-login.png" />][gmail]
+[<img align="left" alt="Nyambura254 linkedin" width="22px" src="https://img.icons8.com/cute-clipart/2x/linkedin.png" />][linkedin]</span>
+<br/>
+
+> Languages & Frameworks:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -43,17 +53,6 @@ Hi, I'm Bonnie 😉, a Web Software Developer 👨🏻‍💻 from Kenya ![flag]
 <img align="left" alt="MySQL" width="36px" src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
----
- 
-
-> How to reach me:
-
-
-
-[<img align="left" alt="Nyambura254 twitter" width="22px" src="https://img.icons8.com/cute-clipart/2x/twitter.png" />][twitter]
-[<img align="left" alt="Nyambura254 gmail" width="22px" src="https://img.icons8.com/color/2x/gmail-login.png" />][gmail]
-[<img align="left" alt="Nyambura254 linkedin" width="22px" src="https://img.icons8.com/cute-clipart/2x/linkedin.png" />][linkedin]</span>
-<br/>
 
 
 [gmail]: mailto:nyamburabonnie@gmail.com
