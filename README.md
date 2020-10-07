@@ -55,13 +55,6 @@ Hi, I'm Bonnie 😉, a Web Software Developer 👨🏻‍💻 from Kenya ![flag]
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 
-> Certified with:
-
-<img align="left" alt="Software Developer" width="32px" src="https://media-exp1.licdn.com/dms/image/C560BAQE9mv648k-SEQ/company-logo_200_200/0?e=1609372800&v=beta&t=fX1Jxn_0nZF_fdf7ygZSKAMrMmyc_WD7dKY0eJ0Y0z4" />
-<img align="left" alt="GCP essentials-" width="44px" src="https://www.netdevgroup.com/static/img/ndg_logo.svg" />
-<img align="left" alt="PIRPLE" width="48px" src="https://s3.amazonaws.com/thinkific-import/116598/cYiInJ14QTexS1zdpeTV_logo5.png" />
-<img align="left" alt="Open EDG Python Institute" width="48px" src="https://openedg.org/wp-content/uploads/2018/06/OpenEDG_logo_300.png" />
-
 [gmail]: mailto:nyamburabonnie@gmail.com
 [website]: https://bonnie-mwangi.netlify.app/
 [youtube]: https://www.youtube.com/channel/UCBCt4HNpZ4hz_gi-erussBA?view_as=subscriber
