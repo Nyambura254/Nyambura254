@@ -27,10 +27,13 @@ Hi, I'm Bonnie 😉, a Web Software Developer 👨🏻‍💻 from Kenya ![flag]
 * 😄 Pronouns: ...He/Him
 * ⚡ Fun fact: ...love people
 ---
+Click me 😄
 <details><summary>:zap: My Yearly Contribution Stats</summary>
 <img align="left" alt="My GitHub Stats" width="300px" src="https://github-readme-stats.codestackr.vercel.app/api?username=Nyambura254&show_icons=true&theme=tokyonight" />
  <img align="" alt="Bonnie's Top used languages on Github" height ="300" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyambura254&theme=synthwave"/></details>
  <br/>
+ 
+ [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nyambura254&repo=github-readme-stats)](https://github.com/Nyambura254/github-readme-stats)
  
 > How to reach me:
 
@@ -54,8 +57,6 @@ Hi, I'm Bonnie 😉, a Web Software Developer 👨🏻‍💻 from Kenya ![flag]
 <img align="left" alt="MySQL" width="36px" src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [gmail]: mailto:nyamburabonnie@gmail.com
 [website]: https://bonnie-mwangi.netlify.app/
