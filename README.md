@@ -14,7 +14,7 @@
 
 Hi, I'm Bonnie 😉, a Web Software Developer 👨🏻‍💻 from Kenya ![flag](https://user-images.githubusercontent.com/45118623/95323099-44651280-08a6-11eb-9ce5-fd63e628796c.png). I'm planning to be an open-source profession and always develop in MERN. Currently, I'm working on MERN stack, but i love working on Javascript and Node. Besides programming, I love delicious food 🌮🍣 and staying fit ⛹️‍🏋🏼‍♂️.
 
-​	<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+​	<img align="right"height="200" width="200" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 **Current Status Quo**
 
