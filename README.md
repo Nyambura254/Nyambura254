@@ -30,7 +30,7 @@ Hi, I'm Bonnie 😉, a Web Software Developer 👨🏻‍💻 from Kenya ![flag]
  <img align="" alt="Bonnie's Top used languages on Github" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyambura254&theme=synthwave"/>
  <br/>
  
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/Nyambura254/github-readme-stats)
+ [![Nyambura254's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nyambura254)](https://github.com/Nyambura254/github-readme-stats)
  
  
  
