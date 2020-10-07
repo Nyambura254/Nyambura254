@@ -28,7 +28,7 @@ Hi, I'm Bonnie 😉, a Web Software Developer 👨🏻‍💻 from Kenya ![flag]
 * ⚡ Fun fact: ...love people
 ---
 <details><summary>:zap: My Yearly Contribution Stats</summary>
-<img align="left" alt="My GitHub Stats" width="300px" src="https://github-readme-stats.codestackr.vercel.app/api?username=Nyambura254&show_icons=true&hide_border=true&&count_private=true" />
+<img align="left" alt="My GitHub Stats" width="300px" src="https://github-readme-stats.codestackr.vercel.app/api?username=Nyambura254&show_icons=true&hide_border=true&count_private=true" />
  <img align="" alt="Bonnie's Top used languages on Github" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyambura254&layout=compact"/></details>
  <br/>
  
