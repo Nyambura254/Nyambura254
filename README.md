@@ -13,8 +13,8 @@ Hi, I'm Bonnie 😉, a Web Software Developer 👨🏻‍💻 from Kenya. I'm pl
 
 **Current Status Quo**
 
-* 👨🏻‍💻 I’m currently working on [QtDocCN](https://github.com/QtDocumentCN/QtDocumentCN).
-* 🌱 I’m currently learning Node.
+* 👨🏻‍💻 I’m currently working on [LMS @ DEAN as Student Requirement Engineer]
+* 🌱 I’m currently learning Node & JavaScript.
 * 🤔  I hope to be a good programmer with good habits to deliver best things in tech world. 🐧
 * 💬 Ask me about anything and I would like to answer.
 * 📫 Please email via [nyamburabonnie@gmail.com](nyamburabonnie@gmail.com) to reach me.
@@ -32,8 +32,8 @@ Hi, I'm Bonnie 😉, a Web Software Developer 👨🏻‍💻 from Kenya. I'm pl
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...Node & JavaScript
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on ...Student Requirements Engineer @ DEAN
+- 🌱 I’m currently learning ...Node & JavaScript
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
