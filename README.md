@@ -21,17 +21,15 @@ Hi, I'm Bonnie 😉, a Web Software Developer 👨🏻‍💻 from Kenya ![flag]
 * 👨🏻‍💻 I’m currently working on *LMS @ DEAN as Student Requirements Engineer*
 * 🌱 I’m currently learning Node & JavaScript.
 * 🤔  I hope to be a good programmer with good habits to deliver best things in tech world. 🐧
-- 👯 I’m looking to collaborate on ...Open source
+* 👯 I’m looking to collaborate on ...Open source
 * 💬 Ask me about anything and I would love to answer.
 * 📫 How to reach me: ...[nyamburabonnie@gmail.com] or [https://www.linkedin.com/in/boniface-mwangi-398154188/]
-- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...love people
-
-
-
+* 😄 Pronouns: ...He/Him
+* ⚡ Fun fact: ...love people
 ---
-
-![stats](https://github-readme-stats.vercel.app/api?username=Nyambura254&show_icons=true&hide_border=true)
-
+<details><summary>:zap: My Yearly Contribution Stats</summary>
+<img align="left" alt="My GitHub Stats" width="300px" src="https://github-readme-stats.codestackr.vercel.app/api?username=Nyambura254&show_icons=true&hide_border=true" />
+ <img align="" alt="Bonnie's Top used languages on Github" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyambura254&layout=compact"/></details>
+ <br/>
 
 
