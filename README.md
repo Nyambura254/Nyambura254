@@ -23,7 +23,7 @@ Hi, I'm Bonnie 😉, a Web Software Developer 👨🏻‍💻 from Kenya ![flag]
 * 🤔  I hope to be a good programmer with good habits to deliver best things in tech world. 🐧
 * 👯 I’m looking to collaborate on ...Open source
 * 💬 Ask me about anything and I would love to answer.
-* 📫 How to reach me: ...[nyamburabonnie@gmail.com] or [https://www.linkedin.com/in/boniface-mwangi-398154188/]
+* 📫 How to reach me: ...nyamburabonnie@gmail.com or https://www.linkedin.com/in/boniface-mwangi-398154188/
 * 😄 Pronouns: ...He/Him
 * ⚡ Fun fact: ...love people
 ---
