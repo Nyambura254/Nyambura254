@@ -13,7 +13,7 @@ Hi, I'm Bonnie 😉, a Web Software Developer 👨🏻‍💻 from Kenya. I'm pl
 
 **Current Status Quo**
 
-* 👨🏻‍💻 I’m currently working on [LMS @ DEAN as Student Requirement Engineer]
+* 👨🏻‍💻 I’m currently working on *LMS @ DEAN as Student Requirement Engineer*
 * 🌱 I’m currently learning Node & JavaScript.
 * 🤔  I hope to be a good programmer with good habits to deliver best things in tech world. 🐧
 * 💬 Ask me about anything and I would like to answer.
@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Student Requirements Engineer @ DEAN
 - 🌱 I’m currently learning ...Node & JavaScript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👯 I’m looking to collaborate on ...Open source
+- 🤔 I’m looking for help with ...MongoDB
+- 💬 Ask me about ...anything
+- 📫 How to reach me: ...[nyamburabonnie@gmail.com] or [https://www.linkedin.com/in/boniface-mwangi-398154188/]
+- 😄 Pronouns: ...He/Him
+- ⚡ Fun fact: ...love people
 -->
