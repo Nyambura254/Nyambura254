@@ -2,7 +2,7 @@
 ### Hello,Fav! 👋😃👋🏻,
 > Talk is cheap. Show me the code.
 
-Hi, I'm Bonnie 😉, a Web Software Developer 👨🏻‍💻 from Kenya ![flag](https://user-images.githubusercontent.com/45118623/95323099-44651280-08a6-11eb-9ce5-fd63e628796c.png). I'm planning to be an open-source profession and always develop in MERN but I will be glad and willing to contribute to anything else I know. Currently, I'm working on MERN stack, but I love working on Javascript and Node. Besides programming, I love delicious food 🌮🍣 and staying fit ⛹️‍🏋🏼‍♂️.
+Hi, People call me Bonnie, and i love it 😉, a Web Software Developer 👨🏻‍💻 from Kenya ![flag](https://user-images.githubusercontent.com/45118623/95323099-44651280-08a6-11eb-9ce5-fd63e628796c.png). I'm planning to be an open-source profession and always develop in MERN but I will be glad and willing to contribute to anything else I know. Currently, I'm working on MERN stack, but I love working on Javascript and Node. Besides programming, I love delicious food 🌮🍣 and staying fit ⛹️‍🏋🏼‍♂️.
 
 ​	<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
