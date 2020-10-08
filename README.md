@@ -1,13 +1,5 @@
-
-## Boniface Mwangi ![thumbup](https://user-images.githubusercontent.com/45118623/95322552-5befcb80-08a5-11eb-8875-2fae791e8b01.png)
- 
-
 ![bonnie](https://user-images.githubusercontent.com/45118623/95321901-5f368780-08a4-11eb-82ab-90fdad43ff25.png)
-
-
-
 ### Hello,Fav! 👋😃👋🏻,
-
 > Talk is cheap. Show me the code.
 
 Hi, I'm Bonnie 😉, a Web Software Developer 👨🏻‍💻 from Kenya ![flag](https://user-images.githubusercontent.com/45118623/95323099-44651280-08a6-11eb-9ce5-fd63e628796c.png). I'm planning to be an open-source profession and always develop in MERN. Currently, I'm working on MERN stack, but i love working on Javascript and Node. Besides programming, I love delicious food 🌮🍣 and staying fit ⛹️‍🏋🏼‍♂️.
