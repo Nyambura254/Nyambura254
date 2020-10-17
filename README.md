@@ -8,7 +8,7 @@ Hi, friends call me Bonnie, and I love it 😉, a Web Software Developer 👨�
 
 **Current Status Quo**
 
-* 👨🏻‍💻 I’m currently working on *LMS @ DEAN as Student Requirements Engineer*
+* 👨🏻‍💻 I’m currently working on *LMS @ DEAN as Student Requirements Engineer*.
 * 🌱 I’m currently learning Node & JavaScript.
 * 🤔  I hope to be a good programmer with good habits to deliver best things in tech world. 🐧
 * 👯 I’m looking to collaborate on ...Open source
