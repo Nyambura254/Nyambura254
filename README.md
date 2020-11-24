@@ -9,6 +9,7 @@ Hi, friends call me Bonnie, and I love it 😉, a Software Developer & UI/UX Des
 **Current Status Quo**
 
 * 👨🏻‍💻 I’m currently working on *LMS @ DEAN as Student Requirements Engineer*.
+* 💻 My website https://bonnie-mwangi.herokuapp.com
 * 🌱 I’m currently learning Node, JavaScript & Figma.
 * 🤔  I hope to be a good programmer with good habits to deliver best things in tech world. 🐧
 * 👯 I’m looking to collaborate on ...Open source
