@@ -2,14 +2,14 @@
 ### Hello,Fav! 👋😃👋🏻,
 > Talk is cheap. Show me the code.
 
-Hi, friends call me Bonnie, and I love it 😉, a Web Software Developer 👨🏻‍💻 from Kenya ![flag](https://user-images.githubusercontent.com/45118623/95323099-44651280-08a6-11eb-9ce5-fd63e628796c.png). I'm planning to be an open-source profession and always develop in MERN but I will be glad and willing to contribute to anything else I know. Currently, I'm working on MERN stack, but I love working on Javascript and Node. Besides programming, I love delicious food 🌮🍣 and staying fit ⛹️‍🏋🏼‍♂️.
+Hi, friends call me Bonnie, and I love it 😉, a Software Developer & UI/UX Designer using Figma 👨🏻‍💻 from Kenya ![flag](https://user-images.githubusercontent.com/45118623/95323099-44651280-08a6-11eb-9ce5-fd63e628796c.png). I'm planning to be an open-source profession and always develop in MERN but I will be glad and willing to contribute to anything else I know. Currently, I'm working on MERN stack, but I love working on Javascript and Node. Besides programming, I love delicious food 🌮🍣 and staying fit ⛹️‍🏋🏼‍♂️.
 
 ​	<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 **Current Status Quo**
 
 * 👨🏻‍💻 I’m currently working on *LMS @ DEAN as Student Requirements Engineer*.
-* 🌱 I’m currently learning Node & JavaScript.
+* 🌱 I’m currently learning Node, JavaScript & Figma.
 * 🤔  I hope to be a good programmer with good habits to deliver best things in tech world. 🐧
 * 👯 I’m looking to collaborate on ...Open source
 * 💬 Ask me about anything and I would love to answer.
@@ -39,10 +39,10 @@ Hi, friends call me Bonnie, and I love it 😉, a Web Software Developer 👨�
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/figma.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Express" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 <img align="left" alt="MongoDB" width="38px" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" />
-<img align="left" alt="MySQL" width="36px" src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 
