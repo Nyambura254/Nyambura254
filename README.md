@@ -8,15 +8,16 @@ Hi, friends call me Bonnie, and I love it 😉, a Software Developer & UI/UX Des
 
 **Current Status Quo**
 
-* 👨🏻‍💻 I’m currently working on *LMS @ DEAN as Student Requirements Engineer*.
+* 👨🏻‍💻 I’m currently working on *SMS @ Digital Education Africa Network as Student Requirements Engineer*.
 * 💻 My website https://bonnie-mwangi.herokuapp.com
 * 🌱 I’m currently learning Node, JavaScript & Figma.
 * 🤔  I hope to be a good programmer with good habits to deliver best things in tech world. 🐧
 * 👯 I’m looking to collaborate on ...Open source
 * 💬 Ask me about anything and I would love to answer.
-* 📫 How to reach me: ...nyamburabonnie@gmail.com or https://www.linkedin.com/in/boniface-mwangi-398154188/
+* 📫 How to reach me: ...nyamburabonnie@gmail.com or https://www.linkedin.com/in/boniface-mwangi-398154188/ 
+* 💬 Please connect me to more opportunities.
 * 😄 Pronouns: ...He/Him
-* ⚡ Fun fact: ...love people
+* ⚡ Fun fact: ...mmmh, that sound...
 ---
 
 <img align="left" alt="My GitHub Stats" width="300px" src="https://github-readme-stats.codestackr.vercel.app/api?username=Nyambura254&show_icons=true&theme=tokyonight" />
