@@ -4,7 +4,7 @@
 
 Hi, friends call me Bonnie, and I love it 😉, a Software Developer & UI/UX Designer using Figma 👨🏻‍💻 from Kenya ![flag](https://user-images.githubusercontent.com/45118623/95323099-44651280-08a6-11eb-9ce5-fd63e628796c.png). I'm planning to be an open-source profession and always develop in MERN but I will be glad and willing to contribute to anything else I know. Currently, I'm working on MERN stack, but I love working on Javascript and Node. Besides programming, I love delicious food 🌮🍣 and staying fit ⛹️‍🏋🏼‍♂️.
 
-​	<img align="right" alt="GIF" src="https://media.giphy.com/media/jeM7fiB2kZd6jyTXy3/giphy.gif" />
+​	<img align="right" alt="GIF" src="http://gph.is/2EuJpkS" />
 
 **Current Status Quo**
 
